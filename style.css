@@ -179,11 +179,3 @@ div img{
     max-width: 25%;
 }
 
-article {
-    display: flex;
-    padding: 1em;
-}
-
-article img {
-    max-width: 20%;
-}
