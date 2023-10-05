@@ -172,14 +172,10 @@ section {
 
 .sumibu {
     padding: 1em;
+    display: flex;
 }
 
 div img{
     display: flex;
     max-width: 25%;
-}
-
-article img {
-    display: flex;
-    justify-content: flex-end;
 }
