@@ -181,4 +181,5 @@ div img{
 
 article img {
     display: flex;
+    justify-content: flex-end;
 }
