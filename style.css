@@ -170,12 +170,3 @@ section {
    left: 12px;  
 }
 
-.sumibu {
-    padding: 1em;
-    display: flex;
-}
-
-div img{
-    display: flex;
-    max-width: 25%;
-}
