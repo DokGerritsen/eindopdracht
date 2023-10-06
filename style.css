@@ -126,12 +126,6 @@ main p{
     width: 100vw;
 }
 
-/*Markten*/
-
-.markt {
-    width: 100vw;
-}
-
 
 /*De stukjes tekst*/
 
@@ -169,4 +163,5 @@ section {
    top: 8px;
    left: 12px;  
 }
+
 
