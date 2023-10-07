@@ -4,20 +4,20 @@
     box-sizing: border-box;
 }
 
-body{
+body {
     background-color: rgb(233, 231, 231)
 }
 
-h1{
+h1 {
     font-size: 7em;
     text-align: center;
     color: white;
     position: relative;
-    top: 20%;
+    bottom: 5em;
 }
 
 
-h1 + p{
+h1 + p {
     font-size: 4em;
     text-align: center;
     color: white;
@@ -25,25 +25,24 @@ h1 + p{
     bottom: 9em;
 }
 
-h2, h3{
+h2, h3 {
     font-size: 35px;
     margin-left: 10px;
 } 
 
-nav ul{
+nav ul {
     text-decoration: none;
 }
 
 /* buttons homepage*/
-
-a:link{
+a:link {
     text-decoration: none;
     transition: background 0.5s ease;
     padding: 10px;
     border-radius: 0.3em;
 }
 
-nav ul{
+nav ul {
     list-style: none;
     display: flex;
     position: absolute;
@@ -55,16 +54,16 @@ nav ul{
 }
 
 
-nav ul li a{
+nav ul li a {
     color: white;
 }
 
 
-nav li:last-child{
+nav li:last-child {
     margin-right: 0px;
 }
 
-nav li:first-child{
+nav li:first-child {
     margin-left: 30px;
 }
 
@@ -72,19 +71,17 @@ li a:hover{
     color: black;
     background-color: white;
 }
-
-
 /* buttons homepage*/
 
 
-.Foto{
+.Foto {
     width: 100vw;
     height: 800px;
     margin-bottom: 0px;
 }
 
 
-main p{
+main p {
     margin-right: 35em;
     font-size:20px;
     padding: 1em;
@@ -92,7 +89,7 @@ main p{
 }
 
 
-.Kalver{
+.Kalver {
     float: right;
     max-width: 30%;
     margin-right: 120px;
@@ -101,14 +98,14 @@ main p{
 
 /*zeedijk*/
 
-.cover{
+.cover {
     color: white;
     font-size: 2em;
     position: relative;
     bottom: 17em;
 }
 
-.dijk{
+.dijk {
     width: 100vw;
 }
 
@@ -136,18 +133,18 @@ article {
     padding-bottom: 1em;
 }
 
-article p{
+article p {
     color: black;
     font-size: 20px;
 }
 
-article ul :first-child{
+article ul :first-child {
     font-size: 20px;
     margin-top: 1em;
     margin-left: 2em;
 }
 
-article ul :last-child{
+article ul :last-child {
     margin-top: 1em;
     margin-left: 2em;
     font-size: 20px;
@@ -164,4 +161,7 @@ section {
    left: 12px;  
 }
 
+div h1 p {
+    font-size: 10px;
+}
 
