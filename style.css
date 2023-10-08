@@ -41,6 +41,12 @@ nav ul {
     font-size: 4em;
 }
 
+main p {
+    margin-right: 35em;
+    font-size:20px;
+    padding: 1em;
+}
+
 
 
 /* buttons homepage*/
@@ -78,6 +84,7 @@ li a:hover{
 }
 /* buttons homepage*/
 
+
 /*positie logo*/
 section {
     background-repeat: no-repeat;
@@ -94,13 +101,6 @@ section {
 }
 
 
-main p {
-    margin-right: 35em;
-    font-size:20px;
-    padding: 1em;
-}
-
-
 .Kalver {
     float: right;
     max-width: 30%;
@@ -111,6 +111,7 @@ main p {
     color: rgb(21, 20, 20);
     font-size: 2em;
 }
+
 
 /*achtergrondfoto's*/
 .dijk, .epies, .straat {
