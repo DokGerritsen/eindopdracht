@@ -1,0 +1,41 @@
+﻿Internetstandaarden bronvermelding
+
+
+Naam: Dok Gerritsen
+Studentnummer: 500931352
+Klas: Oker 
+Schooljaar: 1e jaar
+
+
+Link naar live website:
+https://dokgerritsen.github.io/eindopdracht/index.html
+
+
+
+
+Bronvermelding:
+tekst voor de merken, winkels, etc.
+-https://www.theneworiginals.eu/?gclid=CjwKCAjwg4SpBhAKEiwAdyLwvBTEC2KqbgPEJOd w48bIgSObtYsEFE9X-JE8i41qE8r-r3-jaJ30FBoCK_YQAvD_BwE
+-https://www.patta.nl/nl
+-https://www.sumibu.world/
+-https://www.dewestkrant.nl/16x-vintage-kleding-shoppen-in-de-haarlemmerbuurt/
+-http://www.simplyamsterdam.nl/Kalverstraat-Nieuwendijk_shopping_area.htm
+-https://nl.wikipedia.org/wiki/P.C._Hooftstraat
+-https://episode.eu/?lang=nl
+-https://zippervintageclothing.com/pages/about-us
+-https://ijhallen.nl/
+-https://waterlooplein.amsterdam/
+
+
+hulpmiddelen
+-https://www.w3schools.com/cssref/css_selectors.php
+-https://www.w3schools.com/css/css_list.asp
+-https://www.w3schools.com/css/css3_flexbox.asp
+-https://flexboxfroggy.com/#nl
+-https://www.w3schools.com/css/css_margin.asp
+-https://www.w3schools.com/cssref/sel_firstchild.php
+-https://www.w3schools.com/css/css_combinators.asp
+-https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+-https://www.w3schools.com/css/css3_borders.asp
+-https://www.w3schools.com/howto/howto_css_image_text.asp
+-https://www.w3schools.com/

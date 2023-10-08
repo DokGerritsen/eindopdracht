@@ -64,17 +64,6 @@ nav ul {
 }
 /*positie buttons*/
 
-
-/*positie logo*/
-section {
-    background-repeat: no-repeat;
-    position: absolute;
-    top: 8px;
-    left: 12px;  
- }
- /*positie logo*/
- 
-
 nav ul li a {
     color: white;
 }
@@ -89,6 +78,15 @@ li a:hover{
 }
 /* buttons homepage*/
 
+/*positie logo*/
+section {
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 8px;
+    left: 12px;  
+ }
+ /*positie logo*/
+ 
 
 .Foto {
     width: 100vw;
