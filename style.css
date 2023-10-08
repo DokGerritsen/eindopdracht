@@ -37,6 +37,12 @@ nav ul {
     text-decoration: none;
 }
 
+.text {
+    font-size: 4em;
+}
+
+
+
 /* buttons homepage*/
 a:link {
     text-decoration: none;
@@ -45,6 +51,7 @@ a:link {
     border-radius: 0.3em;
 }
 
+/*positie buttons*/
 nav ul {
     list-style: none;
     display: flex;
@@ -55,15 +62,21 @@ nav ul {
     justify-content: flex-end;
     gap: 4em;
 }
+/*positie buttons*/
 
+
+/*positie logo*/
+section {
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 8px;
+    left: 12px;  
+ }
+ /*positie logo*/
+ 
 
 nav ul li a {
     color: white;
-}
-
-
-nav li:last-child {
-    margin-right: 0px;
 }
 
 nav li:first-child {
@@ -87,7 +100,6 @@ main p {
     margin-right: 35em;
     font-size:20px;
     padding: 1em;
-    border-radius: 0.3em;
 }
 
 
@@ -95,39 +107,21 @@ main p {
     float: right;
     max-width: 30%;
     margin-right: 120px;
-    margin-top: 0px;
 }
 
-/*zeedijk*/
-
-.cover {
+.subtext {
     color: rgb(21, 20, 20);
     font-size: 2em;
-    position: relative;
-    bottom: 2em;
 }
 
-.dijk {
+/*achtergrondfoto's*/
+.dijk, .epies, .straat {
     width: 100vw;
 }
-
-/*Vintage*/
-
-.epies {
-    width: 100vw;
-    height: 80%;
-}
-
-
-/*Winkelstraten*/
-
-.straat {
-    width: 100vw;
-}
+/*achtergrondfoto's*/
 
 
 /*De stukjes tekst*/
-
 article {
     padding-left: 1em;
     padding-right: 5em;
@@ -137,32 +131,20 @@ article {
 
 article p {
     color: black;
-    font-size: 20px;
+    font-size: 22px;
 }
 
 article ul :first-child {
-    font-size: 20px;
     margin-top: 1em;
     margin-left: 2em;
+    font-size: 22px;
 }
 
 article ul :last-child {
     margin-top: 1em;
     margin-left: 2em;
-    font-size: 20px;
-}
-
-article ul :last-child {
     margin-bottom: 40px;
+    font-size: 22px;
 }
+/*De stukjes tekst*/
 
-section {
-   background-repeat: no-repeat;
-   position: absolute;
-   top: 8px;
-   left: 12px;  
-}
-
-.text {
-    font-size: 80%;
-}
