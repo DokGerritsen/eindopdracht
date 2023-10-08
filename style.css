@@ -163,7 +163,6 @@ section {
    left: 12px;  
 }
 
-div + h1 + p {
-    font-size: 5em;
+.text {
+    font-size: 80%;
 }
-
